@@ -23,7 +23,7 @@ Moran e Shapiro.</p>
     <li>Logo após a instalação, abra a pasta (diretório) do projeto com o PyCharm ou com outro 
     editor de texto da sua escolha</li>
     <li>Acesse o terminal de comando da sua máquina na pasta do projeto
-    e digite o comando "pip install requirements.txt". Após a instalação
+    e digite o comando "pip install -r requirements.txt". Após a instalação
     das dependências, o programa MainCode.py pode ser executado tanto através
     da IDE, quanto através do terminal utilizando o comando "python MainCode.py"</li>
 </ul>
